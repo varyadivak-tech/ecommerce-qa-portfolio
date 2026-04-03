@@ -49,6 +49,3 @@ A total of **6 bugs** were identified, including issues related to:
 ## Notes
 
 This project was created as part of a QA portfolio to demonstrate manual testing skills, test documentation, and bug reporting.
-## Notes
-
-This project was created as part of a QA portfolio to demonstrate manual testing skills, test documentation, and bug reporting.
